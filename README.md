@@ -68,3 +68,5 @@ Change: Rs. 30
 # Total Calculation: The total amount is calculated based on the selected items and quantities.
 # Bill and Payment: The user can choose to view the bill by selecting option 5. The program will display the total amount and prompt for payment. If the user has enough money, the change will be calculated.
 # Exit: The user can exit the program at any time by selecting option 6
+
+![image](https://github.com/user-attachments/assets/b5879bfa-a261-43f7-89d3-9707e36fa9a8)
